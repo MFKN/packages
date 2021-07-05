@@ -1,0 +1,3 @@
+[submodule "OL"]
+	path = packages/OL
+	url = https://github.com/Banou26/OL.git
